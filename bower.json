@@ -1,0 +1,21 @@
+{
+  "name": "docuri",
+  "main": "docuri.js",
+  "version": "4.0.2",
+  "homepage": "https://github.com/jo/docuri",
+  "authors": [
+    "Johannes J. Schmidt"
+  ],
+  "description": "Rich document ids for CouchDB",
+  "keywords": [
+    "couchdb"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
